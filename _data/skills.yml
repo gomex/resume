@@ -1,0 +1,20 @@
+# Skills
+
+- skill: Testing of infrastructure code
+
+- skill: Monitoring
+
+- skill: Logging
+
+- skill: Continuos delivery
+  description: Continuous Delivery is the ability to get changes of all types—including new features, configuration changes, bug fixes and experiments—into production, or into the hands of users, safely and quickly in a sustainable way.
+
+- skill: Ansible
+- skill: Docker
+- skill: Jenkins
+- skill: Puppet
+- skill: GoCD
+- skill: AWS
+- skill: Nginx
+- skill: CircleCI
+- skill: 12factor

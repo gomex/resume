@@ -1,0 +1,16 @@
+# Projects
+# donutfinder.io
+- project: DockerBR
+  role: Founder
+  duration: 2015 &mdash; Present
+  description: User group to discuss about Docker and related tools.
+
+#Springfield Donut Eater's User Group
+- project: Docker Captain
+  role: Captain
+  duration: 2016 &mdash; Present
+  description: Docker Captains are Docker experts and leaders in their communities who demonstrate a commitment to sharing their Docker knowledge with others.
+
+- project: Book Infrastructure as code
+  role: Reviewer
+  description: I reviewed the testing of infrastructure code chapter of book Infrastructure as Code, written by Kief Morris, from O'Reilly Publishing.

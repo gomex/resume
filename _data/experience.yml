@@ -1,0 +1,26 @@
+# Jobs
+# Springfield Nuclear Power Plant
+- company: Thoughtworks
+  position: Senior consultant infra automation/developer
+  duration: Jul, 2013 &mdash; Present
+  summary: My job is to help my team to produce software using DevOps culture, and have fun while doing it, because we are all human! <br> Team member of an agile team that delivers and mantains solutions for Thoughtworks. Worked as devops consultant of a agile team distributed in Belo Horizonte (Brazil), Porto Alegre (Brazil), Chicago (USA) and Quito (Equador). This project used many technologies such as Gitlab, Ansible, GoCD, Docker, ServerSpec, and continuous delivery. In the last 11 months I worked as a DevOps consultant helping a group of developers to have your own self service infrastructure using infra as code.	<br> Technologies <br><ul class="resume-item-list"><li>Ansible</li><li>Docker</li><li>Gitlab</li><li>GoCD (Alternative of Jenkins)</li><li>AWS</li><li>Ec2 with AutoScaling and Blue Green Deployment (AWS instances)</li><li>Python</li></ul>
+
+- company: UFBA
+  position: Solution Architect
+  duration:  Sep, 2010 &mdash; Jul, 2013
+  summary: Research and implant new technologies to improve the internal infrastructure. I started the automation and continuos integration using Puppet, Docker and Gitlab. I helped the migratation of SVN repos to Git. <br> Technologies <br><ul class="resume-item-list"><li>Puppet</li><li>Docker</li><li>Gitlab</li><li>Jenkins</li><li>Nexus</li></ul>
+
+- company: Solutis
+  position: Senior Technology Analisty
+  duration:  Sep, 2010 &mdash; Jul, 2013
+  summary: I supported the sales team with technical specifications and implanted monitor system and director system (OpenLdap) to entire company.
+
+- company: CPMBraxis
+  position: Support Analisty
+  duration:   Out, 2006  &mdash; Sep, 2010
+  summary: Worked inside Universidade Federal da Bahia (UFBA) as Outsourcing of CPMBraxis. Responsible of security and GNU/Linux servers. I implanted the monitor system, first automation of servers using bash script and centralization of all logs.
+
+- company: Procwork
+  position: Support Analisty
+  duration:   Mar, 2005  &mdash; Out, 2006
+  summary: Support of TI to end users
